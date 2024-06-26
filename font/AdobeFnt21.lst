@@ -1,0 +1,567 @@
+%!Adobe-FontList 1.20
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CG-Triumvirate-Extra-Compressed
+FamilyName:CG Triumvirate
+StyleName:Extra Compressed
+FullName:CG Triumvirate Extra Compressed
+MenuName:CG Triumvirate
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\cgtriextcom.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:66832
+FileModTime:1718960978
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,CG Triumvirate Ex Compressed Regular
+NameArray:0,Win,1,CG Triumvirate
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ekamai
+FamilyName:Ekamai
+StyleName:Regular
+FullName:Ekamai
+MenuName:Ekamai
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\Ekamai.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98740
+FileModTime:1718960978
+WeightClass:401
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Ekamai
+NameArray:0,Mac,4,Ekamai
+NameArray:0,Win,1,Ekamai
+NameArray:0,Win,16,Ekamai
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Palatine-Regular
+FamilyName:Palatine
+StyleName:Regular
+FullName:Palatine Regular
+MenuName:Palatine
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\Palatine.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:62272
+FileModTime:1718960978
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Palatine Regular
+NameArray:0,Win,1,Palatine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Palatine-Regular
+FamilyName:Palatine
+StyleName:Regular
+FullName:Palatine Regular
+MenuName:Palatine
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\Palatine.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119684
+FileModTime:1718960979
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Palatine Regular
+NameArray:0,Win,1,Palatine
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Pretendard-Bold
+FamilyName:Pretendard
+StyleName:Bold
+FullName:Pretendard Bold
+MenuName:Pretendard
+StyleBits:2
+FamilyNameNative:Pretendard
+StyleNameNative:Bold
+FullNameNative:Pretendard Bold
+WritingScript:Korean
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\Pretendard-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1576660
+FileModTime:1718960978
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Pretendard-Medium
+FamilyName:Pretendard
+StyleName:Medium
+FullName:Pretendard Medium
+MenuName:Pretendard Medium
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:Medium
+FullNameNative:Pretendard Medium
+WritingScript:Korean
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\Pretendard-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1584068
+FileModTime:1718960981
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard Medium
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:Pretendard-Regular
+FamilyName:Pretendard
+StyleName:Regular
+FullName:Pretendard
+MenuName:Pretendard
+StyleBits:0
+FamilyNameNative:Pretendard
+StyleNameNative:Regular
+FullNameNative:Pretendard Regular
+WritingScript:Korean
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\Pretendard-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1574352
+FileModTime:1718960984
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Pretendard
+NameArray:0,Win,16,Pretendard
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TriumvirateCGInserat
+FamilyName:Triumvirate CG Inserat
+StyleName:Regular
+FullName:Triumvirate CG Inserat
+MenuName:Triumvirate CG Inserat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\Triumvirate CG Inserat.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:39459
+FileModTime:1718960979
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Triumvirate CG Inserat
+NameArray:0,Win,1,Triumvirate CG Inserat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TriumvirateCGComp
+FamilyName:Triumvirate CG Comp
+StyleName:Regular
+FullName:Triumvirate CG Comp
+MenuName:Triumvirate CG Comp
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\triumviratecgcomp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16920
+FileModTime:1718960979
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Triumvirate CG Comp
+NameArray:0,Win,1,Triumvirate CG Comp
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TriumvirateCGExtraComp
+FamilyName:Triumvirate CG ExtraComp
+StyleName:Regular
+FullName:Triumvirate CG ExtraComp
+MenuName:Triumvirate CG ExtraComp
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\triumviratecgextracomp.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:16812
+FileModTime:1718960979
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Triumvirate CG ExtraComp
+NameArray:0,Win,1,Triumvirate CG ExtraComp
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Vignettic
+FamilyName:Vignettic
+StyleName:Regular
+FullName:Vignettic
+MenuName:Vignettic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\Vignettic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23184
+FileModTime:1718960980
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Vignettic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ActingDEMO-Normal
+FamilyName:Acting DEMO
+StyleName:Normal
+FullName:Acting DEMO Normal
+MenuName:Acting DEMO Normal
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\ActingDEMO-Normal.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:26944
+FileModTime:1718960981
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Acting DEMO Normal
+NameArray:0,Win,1,Acting DEMO Normal
+NameArray:0,Win,16,Acting DEMO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Aromatron-Regular
+FamilyName:Aromatron
+StyleName:Regular
+FullName:Aromatron Regular
+MenuName:Aromatron
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\Aromatron-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:716752
+FileModTime:1718960981
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Aromatron Regular
+NameArray:0,Win,1,Aromatron
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Disko
+FamilyName:Disko
+StyleName:Regular
+FullName:Disko
+MenuName:Disko
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\Disko_OT.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:50676
+FileModTime:1718960982
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Disko
+NameArray:0,Win,1,Disko
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DreamtoBerichDEMOFORUSEP
+FamilyName:Dream to Berich DEMO (FOR USE P
+StyleName:Regular
+FullName:Dream to Berich DEMO (FOR USE P
+MenuName:Dream to Berich DEMO (FOR USE P
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\Dream to Berich DEMO (FOR USE PERSONAL ONLY).ttf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:74888
+FileModTime:1718960982
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Dream to Berich DEMO (FOR USE P
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GroovaliciousTweak
+FamilyName:Groovalicious Tweak
+StyleName:Regular
+FullName:Groovalicious Tweak
+MenuName:Groovalicious Tweak
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\GROOT___.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:94604
+FileModTime:1718960982
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Groovalicious Tweak
+NameArray:0,Win,1,Groovalicious Tweak
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Kodaro
+FamilyName:Kodaro
+StyleName:Regular
+FullName:Kodaro
+MenuName:Kodaro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\Kodaro.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:56640
+FileModTime:1718960983
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kodaro
+NameArray:0,Win,1,Kodaro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Oi-Regular
+FamilyName:Oi
+StyleName:Regular
+FullName:Oi Regular
+MenuName:Oi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\Oi-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:345028
+FileModTime:1718960983
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Oi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:PSYCHOPERSONALUSE-Regular
+FamilyName:PSYCHO PERSONAL USE
+StyleName:Regular
+FullName:PSYCHO PERSONAL USE Regular
+MenuName:PSYCHO PERSONAL USE
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\PSYCHO PERSONAL USE-SVG.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:yes
+VariableFontType:NonVariableFont
+FileLength:5490960
+FileModTime:1718960987
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,PSYCHO PERSONAL USE Regular
+NameArray:0,Win,1,PSYCHO PERSONAL USE
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Redsema-Regular
+FamilyName:Redsema
+StyleName:Regular
+FullName:Redsema Regular
+MenuName:Redsema
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\Redsemapersonal.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:346472
+FileModTime:1718960983
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Redsema Regular
+NameArray:0,Win,1,Redsema
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:SugarPeachyDEMO-Black
+FamilyName:Sugar Peachy DEMO
+StyleName:Black
+FullName:Sugar Peachy DEMO Black
+MenuName:Sugar Peachy DEMO Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\Sugar Peachy DEMO.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:19100
+FileModTime:1718960983
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Sugar Peachy DEMO Black
+NameArray:0,Win,1,Sugar Peachy DEMO Black
+NameArray:0,Win,16,Sugar Peachy DEMO
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TheAugusta
+FamilyName:The Augusta
+StyleName:Regular
+FullName:The Augusta
+MenuName:The Augusta
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\The Augusta.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:128660
+FileModTime:1718960984
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,The Augusta
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Vignettic
+FamilyName:Vignettic
+StyleName:Regular
+FullName:Vignettic
+MenuName:Vignettic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\user\Desktop\개인포폴\포트폴리오-홈페이지\Font\logo\Vignettic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:23184
+FileModTime:1718960984
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Vignettic
+%EndFont
+

@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul { list-style: none;}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+
+.wrap {}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #0B381B;
+}
+
+
+header .container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+header .logo {
+    position: fixed;
+    top: 30px; left: 35px;
+    animation: lg 1.5s linear infinite alternate;
+}
+@keyframes lg {
+    0% {transform: rotate(0) scale(1);}
+    30% {transform: rotate(4deg) scale(1.2); }
+    60% {transform: rotate(-4deg) scale(1.2);}
+    100% {transform: rotate(0) scale(1);}
+}
+
+header .logo a {
+    font-size: 3rem;
+    font-family: 'CWDangamAsac-Bold';
+    color: #F6826D;
+}
+@font-face {
+    font-family: 'CWDangamAsac-Bold';
+    src: url('../font/logo/Sugar\ Peachy\ DEMO.otf');
+
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+header .h-inner {
+    width: 80%;
+}
+header .menu {
+    width: 50%;
+    height: 50%;
+    line-height: 50px;
+    margin-top: 23px;
+    background-color: #ffffff;
+    border-radius: 50px;
+    margin-left: 68%;
+}
+
+header .menu ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+
+    font-family: 'home';
+}
+@font-face {
+    font-family: 'home';
+    src: url('../font/Pretendard-Medium.otf');
+}
+header nav ul li {
+    width: 30%;
+    text-align: center;
+}
+header nav ul li a {
+    display: block;
+    width: 100%;
+}
+header nav ul li a:hover {}
+
+
+
+header .hamburger {
+    width: 40px;
+    cursor: pointer;
+    position: fixed;
+    top: 32px;
+    right: 32px;
+
+}
+.hamburger span {
+    display: block;
+    height: 5px;
+    /* background-color: #333; */
+    background-color: #CFADFF;
+}
+.hamburger span + span {
+    margin-top: 7px;
+}
+
+/* --------------main----------------- */
+main {}
+main .container {
+    width: 100%;
+    height: 4000px;
+    background-color: aqua;
+}
+
+main .container .c-home {
+    width: 100%;
+    height: 100vh;
+    /* padding-top: 10%; */
+
+    background-color: antiquewhite;
+}
+
+/* main .container .c-home h1 {
+    font-size: 25rem;
+    text-align: center;
+
+    background-color: aquamarine;
+} */
+main .container .c-home .creative {
+    width: 100%;
+    height: 100%;
+    padding: 5%;
+
+    position: relative;
+}
+
+main .container .c-home .creative img {
+    width: 100%;
+    height: 100%;
+}
+
+main .container .c-home .creative .textbox {
+    width: 95%;
+    height: 150px;
+    background-color: #0B381B;
+    animation: ct 2s linear infinite alternate;
+    
+    position: absolute;
+    bottom: 30%; left: 50px;
+}
+@keyframes ct {
+    0% {bottom: 30%;}
+    50% {bottom: 32%;}
+    100% {bottom: 30%;}
+}
+main .container .c-home .creative .textbox p {
+    width: 100%;
+    height: 100%;
+    font-size: 2rem;
+    text-align: center;
+line-height: 140px;
+
+    font-family: 'cj';
+    /* background-color: aliceblue; */
+}
+@font-face {
+    font-family: 'cj';
+    src: url('../font/Pretendard-Regular.otf');
+}
+
+
+/* main----------------c-inner--------- */
+main .container .c-inner {
+    width: 90%;
+    height: 5%;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+
+/* 보류! */
+
+
+/* ------------footer----------------- */
+footer {
+    width: 100%;
+    height: 400px;
+    background-color: tomato;
+    position: relative;
+    overflow: hidden;
+}
+footer .inner {
+    width: 100%;
+    /* position: relative; */
+
+}
+footer .inner h2 {
+    text-align: center;
+    font-size: 22rem;
+
+    position: absolute;
+    top: 50px; left: 15%;
+
+/* background-color: cadetblue; */
+color: #CFADFF;
+font-family: mn;
+}
+@font-face {
+    font-family: mn;
+    src: url('../font/Triumvirate\ CG\ Inserat.otf');
+}
